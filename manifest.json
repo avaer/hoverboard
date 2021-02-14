@@ -7,7 +7,7 @@
     {
       "type": "sit",
       "subtype": "stand",
-      "sitOffset": [0, 1, 0]
+      "sitOffset": [0, 0.7, 0]
     },
     {
       "type": "effect",
