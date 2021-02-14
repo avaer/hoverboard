@@ -6,7 +6,7 @@
   "components": [
     {
       "type": "sit",
-      "subype": "stand",
+      "subtype": "stand",
       "sitOffset": [0, 1, 0]
     },
     {
